@@ -71,15 +71,15 @@ h5{
     
 }
 .card1{
-    background-image: url('../imgs/icecream.png') ;
+    background-image: url('./imgs/icecream.png') ;
 
 }
 .card2{
-    background-image: url('../imgs/riyadh.png');
+    background-image: url('./imgs/riyadh.png');
 
 }
 .card3{
-    background-image: url('../imgs/album.png');
+    background-image: url('./imgs/album.png');
 
    
 }
