@@ -79,12 +79,12 @@ h5{
 
 }
 .card3{
-    background-image: url("../imgs/album.png");
+    background-image: url("./imgs/album.png");
 
    
 }
 .card4{
-    background-image: url("../imgs/kittens.png");
+    background-image: url("./imgs/kittens.png");
 
     
 }
